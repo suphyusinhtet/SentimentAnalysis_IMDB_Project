@@ -154,4 +154,3 @@ st.session_state.model_option = model_option
 if st.button("Predict Sentiment"):
     prediction = predict_sentiment(user_input, st.session_state.model_option)
     st.write(f"The predicted sentiment is: **{prediction}**")
-g
