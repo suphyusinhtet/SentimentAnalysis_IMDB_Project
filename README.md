@@ -89,6 +89,20 @@ evaluate_model(y_test, y_pred_svm, "SVM")
 # Evaluate Naive Bayes
 evaluate_model(y_test, y_pred_naive_bayes, "Naive Bayes")
 ```
+Result with Naive Bayes  
+
+![NaiveBayes](NaiveBayes-result.png)
+
+
+Result with SVM
+
+![SVM](SVM-result.png)
+
+
+Result with Random Forest
+
+![RF](RF-result.png)
+
 Libraries and Dependencies
 The following libraries were used:
 
