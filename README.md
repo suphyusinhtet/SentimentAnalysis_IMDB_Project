@@ -103,7 +103,7 @@ Result with Random Forest
 
 ![RF](RF-result.png)
 
-Libraries and Dependencies
+## Libraries and Dependencies
 The following libraries were used:
 
 - pandas: Data manipulation and analysis.
@@ -113,7 +113,7 @@ The following libraries were used:
 - BeautifulSoup: For HTML parsing and text cleaning.
 - matplotlib and seaborn: For data visualization.
 
-Future Improvements
+## Future Improvements
 - Fine-tune hyperparameters for better model performance.
 - Experiment with deep learning models such as LSTMs or transformers.
 - Use word embeddings (e.g., Word2Vec, GloVe) instead of TF-IDF for feature extraction.
